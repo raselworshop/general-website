@@ -17,3 +17,7 @@ nav.container{
     text-size-adjust: 18px;
     align-items: center;
 }
+label{
+    display: block;
+    margin-bottom: 8px;
+}
